@@ -1,0 +1,11 @@
+Id: FortifiedID.ManagementCenter
+Publisher: FortifiedID
+Name: ManagementCenter
+Version: 1.0.0
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://fortifiedid.jfrog.io/artifactory/winget-repo/manifests/F/FortifiedID/ManagementCenter/1.0.0/ManagementCenter.exe
+    InstallerSha256: 6786a3500bec79808febee8138f1a0752c43f3905a8ba6a859e762c87d6fc08b
+ManifestType: singleton
+ManifestVersion: 1.0.0
